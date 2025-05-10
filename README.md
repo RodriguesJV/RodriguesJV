@@ -1,4 +1,4 @@
-### 🖐️ Olá! Seja bem-vindo, eu sou o João Vitor
+### 🖐️ Olá! Seja bem-vindo(a), eu sou o João Vitor
 
 ## 🌐 Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-rodrigues-dos-santos-a505b0236/)
