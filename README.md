@@ -3,6 +3,7 @@
 ## 🌐 Redes Sociais
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/joão-vitor-rodrigues-dos-santos-a505b0236/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/j.vitor_rodriguess?igsh=MWc4eXMyMDg5emRueQ==)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](joaovit3625@gmail.com)
 
 
 ## 🛠️ Tecnologias e Ferramentas
